@@ -19,7 +19,17 @@ position: relative;
 }
 
 /* Text overlay on image */
-.hero-text {
+.hero-charki {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'Megrim', cursive;
+  }
+
+  .hero-text {
 text-align: center;
 position: absolute;
 top: 50%;
@@ -36,15 +46,6 @@ IMG.displayed {
   margin-right: auto }
   
 
-h1 {
-    display: block;
-    font-size: 2em;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-  }
 
 /* Button Design*/
 .logo button { 
