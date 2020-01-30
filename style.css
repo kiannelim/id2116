@@ -48,7 +48,7 @@ IMG.displayed {
 
 
 /* Button Design*/
-.logo button { 
+.button { 
   border: none; 
   outline: 0; 
   display: inline-block; 
@@ -58,7 +58,7 @@ IMG.displayed {
   text-align: center; 
   cursor: pointer
 } 
-.logo button:hover { 
+.button:hover { 
   background-color: green; 
   color: white; 
 } 
