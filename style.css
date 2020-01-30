@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(243, 242, 243);
+    background-color: rgb(23, 18, 48);
   }
   
   h1 {
@@ -15,7 +15,7 @@ body {
 
   /* Set bg as navy blue */
 .topnav {
-  background-color: rgb(22, 17, 48);
+  background-color: rgb(23, 18,48);
   overflow: hidden;
 }
 
