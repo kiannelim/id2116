@@ -67,3 +67,77 @@
     display: table;
     clear: both;
   }
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: rgb(255, 208, 0);
+    color: white;
+  }
+  
+  /* Right-aligned section inside the top navigation */
+  .topnav-right {
+    float: right;
+  }
+
+
+.logotext {
+    font-family: 'Poppins', sans-serif;
+    position:absolute; top:10; left:20;
+    font-size: 16px;
+}
+
+.bodytext{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.columntext {
+    -webkit-columns: 2 200px;
+       -moz-columns: 2 200px;
+            columns: 2 200px;
+    -webkit-column-gap: 4em;
+       -moz-column-gap: 4em;
+            column-gap: 4em;
+    -webkit-column-rule: 1px dotted #ddd;
+       -moz-column-rule: 1px dotted #ddd;
+            column-rule: 1px dotted #ddd;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: centre;
+    width: 25%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+p {
+  padding: 200px 400px 50px 400px;
+}
