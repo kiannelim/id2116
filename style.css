@@ -3,10 +3,6 @@ body {
   background-color: snow;
 }
 
-/* The hero image */
-.hero-image {
-  background-image: url("IMAGE/benchaccounting.jpeg");
-
 h2 {
 font-family: ;
 text-align: center;
@@ -16,6 +12,10 @@ p {
   font-family: ;
   text-align: center;
 }
+
+/* The hero image */
+img {
+background-image: url("IMAGE/benchaccounting.jpeg");
 
 /* Restrict image height */
 height: 50%;
