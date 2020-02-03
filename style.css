@@ -47,12 +47,21 @@ IMG.displayed {
   color: white;
 }
 
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 h2 {
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  font-size: 14px;
   }
   
 p {
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  font-size: 14px;
   }
