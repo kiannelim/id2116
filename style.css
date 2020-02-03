@@ -2,6 +2,17 @@ body, html {
   height: 100%;
 }
 
+
+h2 {
+font-family: ;
+text-align: center;
+}
+
+p {
+  font-family: ;
+  text-align: center;
+}
+
 /* The hero image */
 .hero-image {
 background-image: url("IMAGE/benchaccounting.jpeg");
@@ -32,12 +43,12 @@ IMG.displayed {
   display: block;
   margin-left: auto;
   margin-right: auto }
-  
 
 
 /* Button Design*/
 .button { 
-  background-color: white;
+ /* background-color: white; */
+  opacity: 0;
   color: black;
   border: 2px solid #555555;
   font-family: 'Raleway', sans-serif;
