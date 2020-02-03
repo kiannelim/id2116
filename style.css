@@ -48,7 +48,7 @@ IMG.displayed {
 /* Button Design*/
 .button { 
  /* background-color: white; */
-  opacity: 0;
+  opacity: 50;
   color: black;
   border: 2px solid #555555;
   font-family: 'Raleway', sans-serif;
