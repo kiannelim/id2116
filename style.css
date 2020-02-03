@@ -47,6 +47,11 @@ IMG.displayed {
   color: white;
 }
 
+div {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 h2 {
   font-family: 'Raleway', sans-serif;
   text-align: center;
