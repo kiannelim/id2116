@@ -50,7 +50,7 @@ IMG.displayed {
  /* background-color: white; */
   opacity: 100;
   color: black;
-  border: 2px transparent;
+  border: 2px solid;
   font-family: 'Raleway', sans-serif;
 }
 
