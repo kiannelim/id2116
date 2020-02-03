@@ -3,24 +3,11 @@ body, html {
   background-color: snow;
 }
 
-
-h2 {
-font-family: ;
-text-align: center;
-}
-
-p {
-  font-family: ;
-  text-align: center;
-}
-
 /* The hero image */
 .hero-image {
 background-image: url("IMAGE/benchaccounting.jpeg");
-
 /* Restrict image height */
 height: 50%;
-
 /* Position and center the image to scale nicely on all screens */
 background-position: center;
 background-repeat: no-repeat;
@@ -43,8 +30,8 @@ font-family: 'Raleway', sans-serif;
 IMG.displayed {
   display: block;
   margin-left: auto;
-  margin-right: auto }
-
+  margin-right: auto
+}
 
 /* Button Design*/
 .button { 
@@ -59,3 +46,13 @@ IMG.displayed {
   background-color: #555555;
   color: white;
 }
+
+h2 {
+  font-family: ;
+  text-align: center;
+  }
+  
+p {
+  font-family: ;
+  text-align: center;
+  }
