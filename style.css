@@ -67,5 +67,13 @@ p {
   }
 
 section {
-background-color: aqua; 
+  background-color: aqua; 
+}
+
+footer {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: lighter;
 }
