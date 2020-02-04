@@ -68,8 +68,8 @@ p {
   font-size: 15px;
   }
 
-span.a {
-  section {background-color: bisque;} ;
+section: span.a {
+  background-color: bisque;
 }
 
 footer {
