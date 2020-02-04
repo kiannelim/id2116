@@ -69,7 +69,9 @@ p {
   }
 
 section {
-  background-color: gold;
+  background-color: rgb(219, 202, 101);
+  margin-left: -10px;
+  margin-right: -10px;
 }
 
 footer {
