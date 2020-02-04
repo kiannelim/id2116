@@ -73,22 +73,22 @@ p {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 15px;
-  margin-left: 250px;
-  margin-right: 250pt;
+  /*margin-left: 250px;
+  margin-right: 250pt;*/
   }
 
 a {
   font-family: 'Raleway', sans-serif;
   text-align: center;
-  /*font-size: 15px;*/
-  margin-left: 250px;
-  margin-right: 250px;
+  font-size: 15px;
+  /*margin-left: 250px;
+  margin-right: 250px;*/
 }
 
 section {
   background-color: rgb(255, 238, 145);
-  margin-left: -10px;
-  margin-right: -10px;
+  /*margin-left: -10px;
+  margin-right: -10px;*/
 }
 
 footer {
