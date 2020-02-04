@@ -71,7 +71,7 @@ h3 { /*This is for the 'we are microbit tinkers' because it's alignment is affec
   
 p {
   font-family: 'Raleway', sans-serif;
-  text-align: center;
+  /*text-align: center;*/
   font-size: 15px;
   margin-left: 250px;
   margin-right: 250pt;
