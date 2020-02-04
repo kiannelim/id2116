@@ -61,6 +61,12 @@ h2 {
   text-align: center;
   font-size: 15px;
   }
+
+h3 { /*This is for the 'we are microbit tinkers' because it's alignment is affected by the margins for <p> */
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
   
 p {
   font-family: 'Raleway', sans-serif;
