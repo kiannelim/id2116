@@ -122,10 +122,12 @@ a {
 }
 
 footer {
+  background-color: rgb(3, 3, 39);
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 15px;
   font-weight: lighter;
+  color: white;
 }
 
 .footerclicked {
