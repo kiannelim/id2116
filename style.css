@@ -105,7 +105,7 @@ h3 { /*This is for the 'we are microbit tinkers' because it's alignment is affec
   text-align: center;
 }
   
-p {
+p, ul, li {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 15px;
