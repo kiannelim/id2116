@@ -79,7 +79,7 @@ IMG.displayed {
     }
 
 /* Clear floats after image containers .row_aboutus,  */
-.row_w2::after {
+.row::after {
   content: "";
   clear: both;
   display: table;
