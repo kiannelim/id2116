@@ -50,6 +50,11 @@ IMG.displayed {
 }
 
 /* Side by Side image formatting here. Three image containers (use 25% for four, and 50% for two, etc)*/
+
+  * {
+    box-sizing: border-box;
+  }
+
   /* HOME dps */
     .column_aboutus {
       float: left;
