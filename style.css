@@ -111,11 +111,11 @@ p {
   font-size: 15px;
   }
 
-ul, li {
+.pcontent, ul, li {
   font-family: 'Raleway', sans-serif;
   text-align: left;
   font-size: 15px;
-}
+  }
 
 a {
   font-family: 'Raleway', sans-serif;
