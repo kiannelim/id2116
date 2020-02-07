@@ -78,8 +78,8 @@ IMG.displayed {
       /*padding: 5px; */
     }
 
-/* Clear floats after image containers */
-.row_aboutus, .row_w2::after {
+/* Clear floats after image containers .row_aboutus,  */
+.row_w2::after {
   content: "";
   clear: both;
   display: table;
