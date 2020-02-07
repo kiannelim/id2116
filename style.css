@@ -45,7 +45,7 @@ IMG.displayed {
 }
 
 .button:hover {
-  background-color: #555555;
+  background-color: black;
   color: white;
 }
 
