@@ -128,3 +128,10 @@ footer {
   font-size: 15px;
   font-weight: lighter;
 }
+
+.footerclicked {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 15px;
+  color: aliceblue;
+}
