@@ -51,15 +51,15 @@ IMG.displayed {
 
 /* For side by side images */
 /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
+.column1 {
   float: left;
   width: 50%;
   /*padding: 5px; */
 }
-.row {
+.row1 {
   display: flex;
 }
-.column {
+.column1 {
   flex: 50%;
   /*padding: 5px; */
 }
