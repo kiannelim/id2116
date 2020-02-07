@@ -51,29 +51,29 @@ IMG.displayed {
 
 /* Side by Side image formatting here. Three image containers (use 25% for four, and 50% for two, etc)*/
   /* HOME dps */
-    .column1 {
+    .column_aboutus {
       float: left;
       width: 50%;
       /*padding: 5px; */
     }
-    .row1 {
+    .row_aboutus {
       display: flex;
     }
-    .column1 {
+    .column_aboutus {
       flex: 50%;
       /*padding: 5px; */
     }
 
   /* WEEK2 images */
-    .column2 {
+    .column_w2 {
       float: left;
       width: 33.33%;
       /*padding: 5px; */
     }
-    .row2 {
+    .row_w2 {
       display: flex;
     }
-    .column2 {
+    .column_w2 {
       flex: 33.33%;
       /*padding: 5px; */
     }
