@@ -79,9 +79,23 @@ IMG.displayed {
       display: flex;
     }
     .column_w2 {
-      flex: 33.33%;
+      flex: 20%;
       padding: 5px;
     }
+
+  /* WEEK3 images */
+  .column_w3 {
+    float: left;
+    width: 20%;
+    padding: 5px;
+  }
+  .row_w3 {
+    display: flex;
+  }
+  .column_w3 {
+    flex: 20%;
+    padding: 5px;
+  }
 
     /* Clear floats after image containers .row_aboutus,  */
     .row::after {
