@@ -7,7 +7,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet">
 
-  <div class="hero-image">
+  <div class="hero-image" "header">
    <div class="hero-text">
      <font size="+4"><h1> <b>Weekly Documentation</b> </h1></font>
      <h3>Week 4   |   07.02.2020</h3>
@@ -47,8 +47,26 @@
     </p>
   </div>
 <!-- ------------------------------------------ END OF WEEKLY CONTENT HERE ------------------------------------------------- -->
-
-  <footer style="margin-left: -10px; margin-right: -10px;">
+  <style>
+    div.header {
+    display: block; text-align: center; 
+    position: running(header);
+}
+   div.footer {
+    display: block; text-align: center;
+    position: running(footer);
+}
+@page {
+    @top-center { content: element(header) }
+}
+@page { 
+    @bottom-center { content: element(footer) }
+}
+</style>
+  <div class="footer">
+   
+  
+   <!-- <footer style="margin-left: -10px; margin-right: -10px;">-->
     <br>
     <br>
     <br>
@@ -66,7 +84,10 @@
     <br>
     <br>
     <br>
-  </footer>
+  </div>
+  <!--  </footer> -->
+  
+  
 
   </body>
 
