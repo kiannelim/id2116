@@ -55,7 +55,7 @@ IMG.displayed {
     box-sizing: border-box;
   }
 
-  /* HOME dps */
+  /* In 2 columns */
     .column_2 {
       float: left;
       width: 50%;
@@ -69,7 +69,7 @@ IMG.displayed {
       padding: 5px;
     }
 
-  /* WEEK2 images */
+  /* In 3 columns */
     .column_3 {
       float: left;
       width: 33.33%;
@@ -83,7 +83,7 @@ IMG.displayed {
       padding: 5px;
     }
 
-  /* WEEK3 images */
+  /* In 5 columns */
   .column_5 {
     float: left;
     width: 20%;
