@@ -130,6 +130,13 @@ p {
   font-size: 15px;
   }
 
+figcaption {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  }
+
 .pcontent, ul, li {
   font-family: 'Raleway', sans-serif;
   text-align: left;
