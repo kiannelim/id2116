@@ -56,43 +56,43 @@ IMG.displayed {
   }
 
   /* HOME dps */
-    .column_aboutus {
+    .column_2 {
       float: left;
       width: 50%;
       padding: 5px;
     }
-    .row_aboutus {
+    .row_2 {
       display: flex;
     }
-    .column_aboutus {
+    .column_2 {
       flex: 50%;
       padding: 5px;
     }
 
   /* WEEK2 images */
-    .column_w2 {
+    .column_3 {
       float: left;
       width: 33.33%;
       padding: 5px;
     }
-    .row_w2 {
+    .row_3 {
       display: flex;
     }
-    .column_w2 {
+    .column_3 {
       flex: 20%;
       padding: 5px;
     }
 
   /* WEEK3 images */
-  .column_w3 {
+  .column_5 {
     float: left;
     width: 20%;
     padding: 5px;
   }
-  .row_w3 {
+  .row_5 {
     display: flex;
   }
-  .column_w3 {
+  .column_5 {
     flex: 20%;
     padding: 5px;
   }
