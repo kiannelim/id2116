@@ -164,3 +164,20 @@ footer {
   font-size: 15px;
   color: aliceblue;
 }
+
+/* Adjusting hyperlink appearance*/
+a {
+  background-color:rgb(3, 3, 39);
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* Non-Demo Styles */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
