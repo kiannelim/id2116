@@ -165,11 +165,20 @@ footer {
   color: aliceblue;
 }
 
-/* Adjusting hyperlink appearance*/
-a {
+
+/* Hyperlink Button Design*/
+a { 
+  /* background-color: b; */
   background-color:rgb(3, 3, 39);
-  color: white;
-  padding: 1em 1.5em;
-  text-decoration: none;
-  text-transform: uppercase;
+   opacity: 100;
+   color: white;
+   border: 1.5px solid;
+   padding: 10px;
+   font-family: 'Raleway', sans-serif;
+   font-size: 10px;
+ }
+
+ a:hover {
+  background-color: white;
+  color: black;
 }
