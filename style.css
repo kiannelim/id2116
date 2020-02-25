@@ -172,6 +172,7 @@ a {
   background-color:rgb(3, 3, 39);
    opacity: 100;
    color: white;
+   text-decoration: none;
    border: 1.5px solid;
    padding: 10px;
    font-family: 'Raleway', sans-serif;
@@ -180,5 +181,6 @@ a {
 
  a:hover {
   background-color: white;
+  text-decoration: none;
   color: black;
 }
