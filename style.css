@@ -38,7 +38,7 @@ IMG.displayed {
 .button { 
  /* background-color: white; */
   opacity: 100;
-  color: black;
+  color: white;
   border: 1.5px solid;
   padding: 10px;
   font-family: 'Raleway', sans-serif;
@@ -74,28 +74,28 @@ IMG.displayed {
     .column_3 {
       float: left;
       width: 33.33%;
-      padding: 5px;
+      padding: 20px;
     }
     .row_3 {
       display: flex;
     }
     .column_3 {
       flex: 20%;
-      padding: 5px;
+      padding: 20px;
     }
 
   /* In 5 columns */
   .column_5 {
     float: left;
     width: 20%;
-    padding: 5px;
+    padding: 20px;
   }
   .row_5 {
     display: flex;
   }
   .column_5 {
     flex: 20%;
-    padding: 5px;
+    padding: 20px;
   }
 
     /* Clear floats after image containers .row_aboutus,  */
@@ -170,7 +170,7 @@ footer {
 
 
 /* Hyperlink Button Design*/
-a { 
+a button { 
   /* background-color: b; */
   background-color:rgb(3, 3, 39);
    opacity: 100;
