@@ -76,6 +76,7 @@ IMG.displayed {
       float: left;
       width: 33.33%;
       padding: 20px;
+      padding-bottom: 50px;
     }
     .row_3 {
       display: flex;
@@ -83,6 +84,7 @@ IMG.displayed {
     .column_3 {
       flex: 20%;
       padding: 20px;
+      padding-bottom: 50px;
     }
 
   /* In 5 columns */
