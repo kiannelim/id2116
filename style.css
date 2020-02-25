@@ -173,11 +173,3 @@ a {
   text-decoration: none;
   text-transform: uppercase;
 }
-
-/* Non-Demo Styles */
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
