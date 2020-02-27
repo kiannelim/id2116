@@ -1,0 +1,5 @@
+Observations
+
+Chair:
+1) Max for acceleration is 2048milli-g, Max for compass is 360 degrees, Max for light level is 255 brightness. But in this case, I set the limit to 50 because the average Ambient light around us is 20 to 40 lux - so that it is more sensitive to change in brightness.
+2) if you combine any two, it starts blinking.
