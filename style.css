@@ -38,7 +38,7 @@ IMG.displayed {
 .button { 
  /* background-color: white; */
   opacity: 100;
-  background-color: white;
+  background-color: transparent;
   color: black;
   border: 1.5px solid;
   padding: 10px;
