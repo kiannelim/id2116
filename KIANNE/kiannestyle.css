@@ -141,3 +141,10 @@
 p {
   padding: 200px 400px 50px 400px;
 }
+
+/* Centre an Image */
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
