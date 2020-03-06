@@ -27,14 +27,7 @@
   <div style="padding-top: 60px; padding-bottom: 60px; padding-left: 250px; padding-right: 250px; background-color: snow">
     <h2 style="font-size: 25px; font-weight: bold; text-align: left;">NEW HARDWARE CANDY</h2>
     <p class="pcontent">
-      This week, Yuta shared with us some interesting sensors and actuators. <br/>
-      We experimented with:
-      <ul>
-        <li> LCD screens </li>
-        <li> Mini Projector </li>
-        <li> Sound Sensor </li>
-        </ul>
-        <img style="text-align: center;" src="IMAGE/06_hardware.jpg"; width="50%"> <br/>
+      <i>Nil. This week, Yuta shared the components he had with us.</i>
     </p>
   </div>
 
@@ -43,11 +36,26 @@
     <p class="pcontent">
 
     <p class="pcontent">
-      We tried out the mini projector, but thought that using a lcd screen to show the face on a box would be most pet-like! <br/>
-      <img style="text-align: center;" src="IMAGE/06_projector.GIF"; width="50%"> <br/>
+      To project our pet's face, we tried out the mini projector.
+      However, we thought that using a lcd screen to show the face on a box would be most pet-like! <br/>
       <br/>
+      <img style="text-align: center;" src="IMAGE/06_lcdscreen.jpg"; height="300px"> 
+      <img style="text-align: center;" src="IMAGE/06_projector.GIF"; height="300px"> <br/>
+      <br/><br/>
 
-      Also, here's a recap of our Object Model analysis.
+      For our light inputs, we needed to use the microbit's built-in light sensors. Hence, we tried utilising the bluetooth function.<br/>
+      <br/>
+      <img style="text-align: center;" src="IMAGE/06_bluetooth.png"; width="50%"> <br/>
+      <br/><br/>
+
+      And for our audio inputs, we tried to use the microphone component. However, we faced problems as the readings collected were very erractic.
+      Hence, we decided to use an external microphone instead - a Blue Yeti. This detachment from the box made our pet less realistic,
+      but every cloud has a silver lining - this allowed us to achieve greater clarity in sensing audio changes! <br/>
+      <br/>
+      <img style="text-align: center;" src="IMAGE/06_externalmic.jpg"; width="50%"> <br/>
+      <br/><br/>
+
+      On a side note, here's a recap of our Object Model analysis.
       
     <br/><br/>
     <h2 style="font-size: 25px; font-weight: bold; text-align: left;">Object Analysis / Modelling</h2>
@@ -65,7 +73,7 @@
         <td>
           <ul>
           <li> 6 faces, 8 vertices, 8 edges </li>
-          <li> Dimensions: 80mm cube </li>
+          <li> Dimensions: 80mm x 80mm x 80mm </li>
           <li> Handheld </li>
           <li> Cardboard </li>
           <li> Hollow and cubic </li>
@@ -90,7 +98,7 @@
         <td>
           <ul>
           <li> 6 faces, 8 vertices, 8 edges </li>
-          <li> Dimensions: 80mm cube </li>
+          <li> Dimensions: 90mm x 120mm x 80mm </li>
           <li> Handheld </li>
           <li> Cardboard </li>
           <li> Hollow and rectangular </li>
@@ -115,7 +123,7 @@
         <td>
           <ul>
           <li> 1 face, 0 vertices, 2 edges </li>
-          <li> Dimensions: 80mm cube </li>
+          <li> Dimensions: ø72mm x 260mm </li>
           <li> Handheld </li>
           <li> Cardboard and Aluminium </li>
           <li> Hollow and cylindrical </li>
@@ -131,6 +139,17 @@
         </td>
       </tr>
     </table>  
+
+    <p class="pcontent">
+    While we tried to make our audio code work for the pet box, we deviated and came to another idea - the Pringles Scream box!
+    This box aimed to help stressed-out folks transform their stress into a rainbow. The rainbow stretches as one screams louder.
+    <br/><br/>
+    <img style="text-align: center;" src="IMAGE/06_pringlesbox.jpg"; height="215px">  
+    <img style="text-align: center;" src="IMAGE/06_insidebox.jpg"; height="215px"> 
+    <img style="text-align: center;" src="IMAGE/06_rainbow.png"; height="215px"> <br/>
+    <br/><br/>
+    </p>
+
     </p>
     </p>
   </div>
